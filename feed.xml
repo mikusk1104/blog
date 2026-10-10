@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>blog</title>
+    <link href="https://mikusk1104.github.io/blog/feed.xml" rel="self" />
+    <link href="https://mikusk1104.github.io/blog" />
+    <updated>2026-10-09T22:10:39+02:00</updated>
+    <author>
+        <name>Mikusk</name>
+    </author>
+    <id>https://mikusk1104.github.io/blog</id>
+
+    <entry>
+        <title>Test page</title>
+        <author>
+            <name>Mikusk</name>
+        </author>
+        <link href="https://mikusk1104.github.io/blog/test-page/"/>
+        <id>https://mikusk1104.github.io/blog/test-page/</id>
+
+        <updated>2026-10-09T22:10:39+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Tu by mal byť obrázok
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tu by mal byť obrázok</p>
+<figure class="post__image"><img loading="lazy"  src="https://mikusk1104.github.io/blog/media/posts/2/test.png" alt="" width="234" height="115" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://mikusk1104.github.io/blog/media/posts/2/responsive/test-xs.png 300w ,https://mikusk1104.github.io/blog/media/posts/2/responsive/test-sm.png 480w ,https://mikusk1104.github.io/blog/media/posts/2/responsive/test-md.png 768w ,https://mikusk1104.github.io/blog/media/posts/2/responsive/test-lg.png 1024w"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
