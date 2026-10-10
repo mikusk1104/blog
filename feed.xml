@@ -3,12 +3,33 @@
     <title>blog</title>
     <link href="https://mikusk1104.github.io/blog/feed.xml" rel="self" />
     <link href="https://mikusk1104.github.io/blog" />
-    <updated>2026-10-10T07:32:27+02:00</updated>
+    <updated>2026-10-10T20:43:09+02:00</updated>
     <author>
         <name>Milan Kubo</name>
     </author>
     <id>https://mikusk1104.github.io/blog</id>
 
+    <entry>
+        <title>Create UPS server Linux NUT</title>
+        <author>
+            <name>Milan Kubo</name>
+        </author>
+        <link href="https://mikusk1104.github.io/blog/create-ups-server-linux-nut/"/>
+        <id>https://mikusk1104.github.io/blog/create-ups-server-linux-nut/</id>
+
+        <updated>2026-10-10T20:43:09+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I bought UPS EATON UPS 5E 900 USB IEC Gen2 my plan is create NUT ( Network UPS Tools) with my Intel NUC. This blog will be about how to configure all parts. This UPS will be power my Synology Disk Station, my Ubuntu Server&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I bought UPS EATON UPS 5E 900 USB IEC Gen2 my plan is create NUT (</p>
+<div id="layout-title">Network UPS Tools) with my Intel NUC. This blog will be about how to configure all parts. This UPS will be power my Synology Disk Station, my Ubuntu Server on Intel NUC and shutdown all services when battery is low.</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test post</title>
         <author>

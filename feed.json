@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://mikusk1104.github.io/blog/create-ups-server-linux-nut/",
+            "url": "https://mikusk1104.github.io/blog/create-ups-server-linux-nut/",
+            "title": "Create UPS server Linux NUT",
+            "summary": "I bought UPS EATON UPS 5E 900 USB IEC Gen2 my plan is create NUT ( Network UPS Tools) with my Intel NUC. This blog will be about how to configure all parts. This UPS will be power my Synology Disk Station, my Ubuntu Server&hellip;",
+            "content_html": "<p>I bought UPS EATON UPS 5E 900 USB IEC Gen2 my plan is create NUT (</p>\n<div id=\"layout-title\">Network UPS Tools) with my Intel NUC. This blog will be about how to configure all parts. This UPS will be power my Synology Disk Station, my Ubuntu Server on Intel NUC and shutdown all services when battery is low.</div>",
+            "author": {
+                "name": "Milan Kubo"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-10T20:43:09+02:00",
+            "date_modified": "2026-10-10T20:43:09+02:00"
+        },
+        {
             "id": "https://mikusk1104.github.io/blog/test-post/",
             "url": "https://mikusk1104.github.io/blog/test-post/",
             "title": "Test post",
