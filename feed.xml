@@ -3,14 +3,14 @@
     <title>blog</title>
     <link href="https://mikusk1104.github.io/blog/feed.xml" rel="self" />
     <link href="https://mikusk1104.github.io/blog" />
-    <updated>2026-10-10T20:43:09+02:00</updated>
+    <updated>2026-10-10T20:47:01+02:00</updated>
     <author>
         <name>Milan Kubo</name>
     </author>
     <id>https://mikusk1104.github.io/blog</id>
 
     <entry>
-        <title>Create UPS server Linux NUT</title>
+        <title>Create UPS server using Linux NUT</title>
         <author>
             <name>Milan Kubo</name>
         </author>
@@ -27,27 +27,6 @@
             <![CDATA[
                 <p>I bought UPS EATON UPS 5E 900 USB IEC Gen2 my plan is create NUT (</p>
 <div id="layout-title">Network UPS Tools) with my Intel NUC. This blog will be about how to configure all parts. This UPS will be power my Synology Disk Station, my Ubuntu Server on Intel NUC and shutdown all services when battery is low.</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Test post</title>
-        <author>
-            <name>Milan Kubo</name>
-        </author>
-        <link href="https://mikusk1104.github.io/blog/test-post/"/>
-        <id>https://mikusk1104.github.io/blog/test-post/</id>
-
-        <updated>2026-10-10T07:32:27+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Tu by mal byť obrázok
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Tu by mal byť obrázok</p>
-<figure class="post__image"><img loading="lazy"  src="https://mikusk1104.github.io/blog/media/posts/1/test.png" alt="" width="234" height="115" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mikusk1104.github.io/blog/media/posts/1/responsive/test-xs.png 640w ,https://mikusk1104.github.io/blog/media/posts/1/responsive/test-sm.png 768w ,https://mikusk1104.github.io/blog/media/posts/1/responsive/test-md.png 1024w ,https://mikusk1104.github.io/blog/media/posts/1/responsive/test-lg.png 1366w ,https://mikusk1104.github.io/blog/media/posts/1/responsive/test-xl.png 1600w ,https://mikusk1104.github.io/blog/media/posts/1/responsive/test-2xl.png 1920w"></figure>
             ]]>
         </content>
     </entry>
