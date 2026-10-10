@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>blog</title>
-    <link href="https://mikusk1104.github.io/blog/feed.xml" rel="self" />
-    <link href="https://mikusk1104.github.io/blog" />
-    <updated>2026-10-10T07:25:24+02:00</updated>
+    <link href="https://mikusk1104/feed.xml" rel="self" />
+    <link href="https://mikusk1104" />
+    <updated>2026-10-10T07:32:27+02:00</updated>
     <author>
-        <name>Mikusk</name>
+        <name>Milan Kubo</name>
     </author>
-    <id>https://mikusk1104.github.io/blog</id>
+    <id>https://mikusk1104</id>
 
     <entry>
         <title>Test post</title>
         <author>
-            <name>Mikusk</name>
+            <name>Milan Kubo</name>
         </author>
-        <link href="https://mikusk1104.github.io/blog/test-post/"/>
-        <id>https://mikusk1104.github.io/blog/test-post/</id>
+        <link href="https://mikusk1104/test-post/"/>
+        <id>https://mikusk1104/test-post/</id>
 
-        <updated>2026-10-10T07:25:24+02:00</updated>
+        <updated>2026-10-10T07:32:27+02:00</updated>
             <summary type="html">
                 <![CDATA[
                     Tu by mal byť obrázok
@@ -26,8 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p>Tu by mal byť obrázok</p>
-<figure class="post__image"><img loading="lazy"  src="https://mikusk1104.github.io/blog/media/posts/3/test.png" alt="" width="234" height="115" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://mikusk1104.github.io/blog/media/posts/3/responsive/test-xs.png 300w ,https://mikusk1104.github.io/blog/media/posts/3/responsive/test-sm.png 480w ,https://mikusk1104.github.io/blog/media/posts/3/responsive/test-md.png 768w ,https://mikusk1104.github.io/blog/media/posts/3/responsive/test-lg.png 1024w"></figure>
-<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://mikusk1104/media/posts/1/test.png" alt="" width="234" height="115" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mikusk1104/media/posts/1/responsive/test-xs.png 640w ,https://mikusk1104/media/posts/1/responsive/test-sm.png 768w ,https://mikusk1104/media/posts/1/responsive/test-md.png 1024w ,https://mikusk1104/media/posts/1/responsive/test-lg.png 1366w ,https://mikusk1104/media/posts/1/responsive/test-xl.png 1600w ,https://mikusk1104/media/posts/1/responsive/test-2xl.png 1920w"></figure>
             ]]>
         </content>
     </entry>
