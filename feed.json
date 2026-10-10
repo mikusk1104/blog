@@ -10,18 +10,18 @@
     },
     "items": [
         {
-            "id": "https://mikusk1104.github.io/blog/test-page/",
-            "url": "https://mikusk1104.github.io/blog/test-page/",
-            "title": "Test page",
+            "id": "https://mikusk1104.github.io/blog/test-post/",
+            "url": "https://mikusk1104.github.io/blog/test-post/",
+            "title": "Test post",
             "summary": "Tu by mal byť obrázok",
-            "content_html": "<p>Tu by mal byť obrázok</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mikusk1104.github.io/blog/media/posts/2/test.png\" alt=\"\" width=\"234\" height=\"115\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://mikusk1104.github.io/blog/media/posts/2/responsive/test-xs.png 300w ,https://mikusk1104.github.io/blog/media/posts/2/responsive/test-sm.png 480w ,https://mikusk1104.github.io/blog/media/posts/2/responsive/test-md.png 768w ,https://mikusk1104.github.io/blog/media/posts/2/responsive/test-lg.png 1024w\"></figure>\n<p> </p>",
+            "content_html": "<p>Tu by mal byť obrázok</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mikusk1104.github.io/blog/media/posts/3/test.png\" alt=\"\" width=\"234\" height=\"115\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://mikusk1104.github.io/blog/media/posts/3/responsive/test-xs.png 300w ,https://mikusk1104.github.io/blog/media/posts/3/responsive/test-sm.png 480w ,https://mikusk1104.github.io/blog/media/posts/3/responsive/test-md.png 768w ,https://mikusk1104.github.io/blog/media/posts/3/responsive/test-lg.png 1024w\"></figure>\n<p> </p>",
             "author": {
                 "name": "Mikusk"
             },
             "tags": [
             ],
-            "date_published": "2026-10-09T22:10:39+02:00",
-            "date_modified": "2026-10-09T22:10:39+02:00"
+            "date_published": "2026-10-10T07:25:24+02:00",
+            "date_modified": "2026-10-10T07:25:24+02:00"
         }
     ]
 }
